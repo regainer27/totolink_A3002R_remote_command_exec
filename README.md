@@ -1,5 +1,4 @@
 # totolink_A3002R_remote_command_exec
-# totolink RCE
 **Remote-Command-Execution  in /bin/boa on totolink A3002R-V4.0.0-B20230531.1404 via bandstr **
 
 ![alt text](./img/image-2.png)
