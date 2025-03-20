@@ -9,7 +9,7 @@
 
 **version**:V4.0.0-B20230531.1404
 
-The firmware can be downloaded from this website[][1]
+The firmware can be downloaded from this [website][1]
 ## detail
 
 **addr**:0045a2a4
