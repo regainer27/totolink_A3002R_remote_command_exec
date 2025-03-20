@@ -9,11 +9,14 @@
 
 **version**:V4.0.0-B20230531.1404
 
+The firmware can be downloaded from this website[1] 
+## detail
+
 **addr**:0045a2a4
+
 **function**:FUN_0045a1f8
 
-The firmware can be downloaded from this website[1] and using FirmAE to simulate the router environment.   
-The command is 
+
 
 ![alt text](./img/image-2.png)
 
