@@ -15,6 +15,7 @@ The firmware can be downloaded from this [website][1]
 **addr**:0045a2a4
 
 **function**:FUN_0045a1f8
+
 Using ghidra we can know that the post parameter "bandstr" will be sprintf as the second input parameter and result the command injection and the realte action is  formMapDelDevice
 ![alt text](./img/action.png)
 
