@@ -1,5 +1,5 @@
 # totolink_A3002R_remote_command_exec
-**description**: a Remote-Command-Execution  in /bin/boa on totolink A3002R-V4.0.0-B20230531.1404 via parameter bandstr
+**description**: a Remote-Command-Execution  in /bin/boa on totolink A3002R-V4.0.0-B20230531.1404 via parameter "bandstr"
 
 
 ## Firmware
@@ -10,7 +10,7 @@
 **version**:V4.0.0-B20230531.1404
 
 **addr**:0045a2a4
-fun:FUN_0045a1f8
+**function**:FUN_0045a1f8
 
 The firmware can be downloaded from this website[1] and using FirmAE to simulate the router environment.   
 The command is 
