@@ -19,9 +19,8 @@ Using ghidra we can know that the post parameter "bandstr" will be sprintf as th
 ![alt text](./img/action.png)
 
 
-
-
 ![alt text](./img/image-2.png)
+
 
 # poc
 burp suite change the packet as follow
